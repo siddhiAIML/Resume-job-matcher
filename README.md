@@ -17,7 +17,7 @@ Built with **Python**, **Streamlit**, and popular ML libraries.
 
 ## 🖥️ Demo
 
-Live web app: [https://resume-job-matcher-e5bhwu9mwpzfaanskmtyma.streamlit.app/](https://share.streamlit.io/siddhiAIML/resume-job-matcher/main/src/app.py)
+Live web app: [https://resume-job-matcher-e5bhwu9mwpzfaanskmtyma.streamlit.app/)
 
 ---
 
