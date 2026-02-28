@@ -23,7 +23,7 @@ Live web app: [https://resume-job-matcher-e5bhwu9mwpzfaanskmtyma.streamlit.app/)
 
 ## 📂 Project Structure
 
-```text
+
 Resume-Job-Matching/
 ├── data/
 │   ├── raw/
