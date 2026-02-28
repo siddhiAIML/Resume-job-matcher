@@ -22,3 +22,23 @@ Live web app: [https://resume-job-matcher-e5bhwu9mwpzfaanskmtyma.streamlit.app/)
 ---
 
 ## 📂 Project Structure
+*Resume-Job-Matching/
+├─ data/
+│  ├─ raw/
+│  │  ├─ jobs/
+│  │  │  └─ job1.txt
+│  │  └─ resumes/
+│  │     └─ resume1.pdf
+│  └─ processed/       # For cleaned/parsed data
+├─ src/                # Python scripts
+│  ├─ extract_text.py
+│  ├─ preprocess.py
+│  └─ match_resumes.py
+├─ notebooks/          # Optional: Jupyter notebooks for testing or experiments
+│  └─ exploration.ipynb
+├─ outputs/            # Match results, reports, logs
+│  └─ matches.csv
+├─ venv/               # Your virtual environment
+├─ .gitignore
+└─ README.md           # Project description, instructions.*
+
