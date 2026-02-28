@@ -22,7 +22,7 @@ Live web app: [https://resume-job-matcher-e5bhwu9mwpzfaanskmtyma.streamlit.app/)
 ---
 
 ## 📂 Project Structure
-*Resume-Job-Matching/
+Resume-Job-Matching/
 ├─ data/
 │  ├─ raw/
 │  │  ├─ jobs/
@@ -40,5 +40,9 @@ Live web app: [https://resume-job-matcher-e5bhwu9mwpzfaanskmtyma.streamlit.app/)
 │  └─ matches.csv
 ├─ venv/               # Your virtual environment
 ├─ .gitignore
-└─ README.md           # Project description, instructions.*
+└─ README.md           # Project description, instructions.
+
+
+## THANK YOU
+
 
