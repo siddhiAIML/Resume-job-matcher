@@ -44,6 +44,15 @@ Resume-Job-Matching/
 ├── .gitignore
 └── README.md               # Project description
 
-## THANK YOU
+---
 
+## ❤️ Thank You
 
+Thank you for exploring the **Resume & Job Skill Matcher**! This project was built to demonstrate how NLP can simplify the recruitment process.
+
+If you found this project helpful or interesting, please consider:
+* ⭐ **Starring** this repository to show your support.
+* 🍴 **Forking** it to build your own version.
+* 📧 Reaching out if you have any feedback or collaboration ideas!
+
+---
