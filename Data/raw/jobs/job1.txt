@@ -1,3 +1,9 @@
 We are looking for a Machine Learning Intern with knowledge of Python, 
 scikit-learn, NLP, and deep learning.
 Experience with data preprocessing and model evaluation is required.
+Python
+Machine Learning
+Data Analysis
+TensorFlow
+Pytorch
+SQL
